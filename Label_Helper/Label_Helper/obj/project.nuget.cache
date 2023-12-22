@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5hu4KkDMBWTWvfy2M+ooodULVTbunZpuEslqwlQbIYwI7xoO45kTl1J5AxCgCJff8M58ku4Rd51XB/NgpvvH/g==",
+  "dgSpecHash": "n8pMrsBe9ZccYlKFNl81tc/st9S0O3HWl0tO4Dtdou9nzMuN9LdfCUzJicWOgAFLJgWd79h4OtQclz/cXQGo9Q==",
   "success": true,
-  "projectFilePath": "D:\\ВУЗ 2023-2024\\3 семестр\\Kursovaya-main\\Kursovaya-main\\Курсовой проект\\Label_Helper\\Label_Helper\\Label_Helper.csproj",
+  "projectFilePath": "D:\\Курсовая работа\\LabelHelper\\Label_Helper\\Label_Helper\\Label_Helper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pozdn\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

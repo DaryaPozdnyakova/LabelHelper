@@ -355,3 +355,23 @@ D:\ВУЗ 2023-2024\3 семестр\Kursovaya-main\Kursovaya-main\Курсов�
 D:\ВУЗ 2023-2024\3 семестр\Kursovaya-main\Kursovaya-main\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.pdb
 D:\ВУЗ 2023-2024\3 семестр\Kursovaya-main\Kursovaya-main\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.genruntimeconfig.cache
 D:\ВУЗ 2023-2024\3 семестр\Kursovaya-main\Kursovaya-main\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\ref\Label_Helper.dll
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.csproj.AssemblyReference.cache
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Button.baml
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Image.baml
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Page.baml
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Text.baml
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\AboutLabels.g.cs
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Artists.g.cs
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Helps.g.cs
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Home.g.cs
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Ratings.g.cs
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Settings.g.cs
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\App.g.cs
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper_Content.g.cs
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper_MarkupCompile.cache
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper_MarkupCompile.lref
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.dll
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\refint\Label_Helper.dll
+D:\Курсовая работа\LabelHelper\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ВУЗ 2023-2024\\3 семестр\\Kursovaya-main\\Kursovaya-main\\Курсовой проект\\Label_Helper\\Label_Helper\\Label_Helper.csproj": {}
+    "D:\\Курсовая работа\\LabelHelper\\Label_Helper\\Label_Helper\\Label_Helper.csproj": {}
   },
   "projects": {
-    "D:\\ВУЗ 2023-2024\\3 семестр\\Kursovaya-main\\Kursovaya-main\\Курсовой проект\\Label_Helper\\Label_Helper\\Label_Helper.csproj": {
+    "D:\\Курсовая работа\\LabelHelper\\Label_Helper\\Label_Helper\\Label_Helper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ВУЗ 2023-2024\\3 семестр\\Kursovaya-main\\Kursovaya-main\\Курсовой проект\\Label_Helper\\Label_Helper\\Label_Helper.csproj",
+        "projectUniqueName": "D:\\Курсовая работа\\LabelHelper\\Label_Helper\\Label_Helper\\Label_Helper.csproj",
         "projectName": "Label_Helper",
-        "projectPath": "D:\\ВУЗ 2023-2024\\3 семестр\\Kursovaya-main\\Kursovaya-main\\Курсовой проект\\Label_Helper\\Label_Helper\\Label_Helper.csproj",
+        "projectPath": "D:\\Курсовая работа\\LabelHelper\\Label_Helper\\Label_Helper\\Label_Helper.csproj",
         "packagesPath": "C:\\Users\\Pozdn\\.nuget\\packages\\",
-        "outputPath": "D:\\ВУЗ 2023-2024\\3 семестр\\Kursovaya-main\\Kursovaya-main\\Курсовой проект\\Label_Helper\\Label_Helper\\obj\\",
+        "outputPath": "D:\\Курсовая работа\\LabelHelper\\Label_Helper\\Label_Helper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pozdn\\AppData\\Roaming\\NuGet\\NuGet.Config",

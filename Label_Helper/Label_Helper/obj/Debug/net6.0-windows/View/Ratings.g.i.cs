@@ -54,7 +54,7 @@ namespace Label_Helper.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Label_Helper;component/view/ratings.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Label_Helper;V1.0.0.0;component/view/ratings.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\Ratings.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
